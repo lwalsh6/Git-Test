@@ -17,7 +17,7 @@ using namespace std;
  * Used to add up all of the numbers from 1 to a given limit
  *
  * @param int n the limit to the values
- * @return int Returns the sum of all the numbers
+ * @return int the sum of all the numbers
  * @post The numbers have all been added
  * 
  */
